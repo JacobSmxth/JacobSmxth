@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm an **aspiring front-end developer** with a str
 - **Problem-Solving & Analytical Thinking**  
 - **Leadership & Team Collaboration** (Captain of high school football team)  
 - **Work Experience:**  
-  - **Tennis Warehouse – String Lead & Customer Service Rep (Emails)**  
+  - **Tennis Warehouse – String Lead (Since June 2023)**  
   - **Dunkin' Donuts – Crew Member (1.7 years)** – Demonstrating strong work ethic and reliability.  
 
 ---
