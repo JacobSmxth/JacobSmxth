@@ -6,37 +6,40 @@ Welcome to my GitHub profile! I'm an **aspiring front-end developer** with a str
 
 ## 🚀 About Me  
 - 🎓 **Cybersecurity Major** at UNG (3.4 GPA).  
-- 💻 Passionate about **front-end web development** and continuously improving my **JavaScript** skills.  
-- 🏈 Former **football team captain**, demonstrating strong **leadership and teamwork**.  
-- 🎯 Currently focused on **refining my CSS, JavaScript, and Git skills** while expanding my portfolio.  
+- 💻 Passionate about **front-end development**, focusing on **JavaScript ES6+**, **CSS animations**, and **responsive design**.  
+- 🏈 Former **football team captain**, demonstrating **leadership, teamwork, and problem-solving**.  
+- 🔍 Currently exploring **cross-browser compatibility** and **performance optimization**.  
 
 ---
 
 ## 🛠️ Skills  
-### **Technical Skills**  
-- **Languages:** Semantic **HTML**, **Proficient CSS**, **Basic JavaScript**.  
-- **Tools & Version Control:** Git, GitHub, VS Code.  
+### **Front-End Development**  
+- **Languages & Technologies:**  
+  - ✅ **Semantic HTML**, **Proficient CSS**, **JavaScript (ES6+)**  
+  - ✅ **CSS Flexbox & Grid**, **Responsive Design**, **UI/UX Principles**  
+  - ✅ **Version Control:** Git, GitHub  
 
 ### **Soft Skills & Experience**  
-- **Problem-Solving & Analytical Thinking**.  
-- **Leadership & Team Collaboration** (Captain of high school football team).  
+- **Problem-Solving & Analytical Thinking**  
+- **Leadership & Team Collaboration** (Captain of high school football team)  
 - **Work Experience:**  
-  - **Tennis Warehouse (String Lead & Customer Service Rep - Emails)**.  
-  - **Dunkin' Donuts (Crew Member, 1.7 years)** – Demonstrating strong work ethic and reliability.  
+  - **Tennis Warehouse – String Lead & Customer Service Rep (Emails)**  
+  - **Dunkin' Donuts – Crew Member (1.7 years)** – Demonstrating strong work ethic and reliability.  
 
 ---
 
 ## 🌟 Portfolio  
 - **Portfolio Website:** Built from scratch using **HTML, CSS, and JavaScript** – [jsmitty.com](https://jsmitty.com).  
 
-More projects coming soon as I continue growing my skill set!  
+### 📂 Projects (Coming Soon!)
+I'm actively working on small front-end projects to demonstrate my skills. Stay tuned for updates!  
 
 ---
 
-## 🎯 What I’m Working On  
-- Expanding my **JavaScript knowledge** (DOM manipulation, event handling, APIs).  
-- Creating **real-world projects** to showcase my front-end abilities.  
-- Learning **advanced CSS techniques** and **responsive design best practices**.  
+## 📖 Learning & Growth  
+- 🚀 Improving JavaScript ES6+ fundamentals (event handling, API integration).  
+- 🎨 Enhancing UI/UX with CSS animations, Flexbox, and Grid.  
+- ⚙️ Exploring best practices in version control (Git workflows).  
 
 ---
 
