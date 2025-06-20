@@ -4,7 +4,9 @@ Welcome to my GitHub profile! I'm an aspiring **Software Engineer** with a passi
 
 ## 🚀 About Me
 
-- 🎓 Double majoring in **Cybersecurity and Computer Science** at the University of North Georgia (UNG).
+
+- 🎓 Currently majoring in **Cybersecurity** at the University of North Georgia (UNG)
+   - Considering a double major in **Cybersecurity** and **Computer Science**
 - 💻 Enthusiastic about learning and applying new programming languages and frameworks.
 - 👨‍🏫 Part-time instructor, teaching kids to code and fostering a love for technology.
 - 💡 Always seeking to understand how technology works "under the hood" and build practical solutions.
