@@ -1,12 +1,12 @@
-<!-- ==================================================  
-   JacobSmxth’s GitHub Profile README.md  
-   Forward-Facing Engineer | Data-Driven & Systems-Oriented  
+<!-- ==================================================
+   JacobSmxth’s GitHub Profile README.md
+   Forward-Facing Engineer | Data-Driven & Systems-Oriented
    ================================================== -->
 
-# JacobSmxth  
+# JacobSmxth
 **Software & Systems Engineer | Forward-Facing Developer**
 
-> “With great power comes great responsibility.” – Ben Parker  
+> “With great power comes great responsibility.” – Ben Parker
 
 <!-- BADGES -->
 <!-- BADGES -->
@@ -21,61 +21,68 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 I’m a Systems Programmer and Cybersecurity student at UNG Dahlonega, double-majoring in Cybersecurity & Computer Science. After transitioning to Linux, I pivoted from front-end web development to low-level systems work. I possess solid C expertise (with 16-bit assembly fundamentals) and am rapidly upskilling in Rust to one day build an open-source OS. I also dabble in Go, C#, and Python, using Neovim, Zsh, Git/GitHub, and QEMU for development and emulation workflows.
 
 ---
 
-## 🌐 Core Competencies  
-**Languages & Paradigms**  
-- Rust (1.2/10 – systems-level focus)  
-- C (3.9/10 – low-level optimization)  
-- C# (3/10 – Unity/game-dev prototyping)  
-- Go (3/10 – service orchestration concepts)  
-- Python (5.2/10 – scripting & automation)  
-- Assembly (16-bit fundamentals)  
-- JavaScript/HTML/CSS (7.4/10 – SPAs & modern UI)  
+## 🌐 Core Competencies
+**Languages & Paradigms**
+- Rust (1.2/10 – systems-level focus)
+- C (3.9/10 – low-level optimization)
+- C# (3/10 – Unity/game-dev prototyping)
+- Go (3/10 – service orchestration concepts)
+- Python (5.2/10 – scripting & automation)
+- Assembly (16-bit fundamentals)
+- JavaScript/HTML/CSS (7.4/10 – SPAs & modern UI)
 
-**Tools & Environments**  
-- Editor: Neovim (Lua-driven, Lazy.nvim)  
-- Shell: Zsh with custom scripts  
-- Version Control: Git & GitHub  
-- Emulation: QEMU/KVM for OS experimentation  
+**Tools & Environments**
+- Editor: Neovim (Lua-driven, Lazy.nvim)
+- Shell: Zsh with custom scripts
+- Version Control: Git & GitHub
+- Emulation: QEMU/KVM for OS experimentation
 
-**Domains of Interest**  
-- Systems & kernel-adjacent programming  
-- Cybersecurity tooling & secure architectures  
-- Front-end SPAs & real-time dashboards  
-- FinTech services & performance-critical systems  
-
----
-
-## 💼 Highlight Projects  
-
-- [learning-assembly](https://github.com/JacobSmxth/learning-assembly)  
-- [learning-rust](https://github.com/JacobSmxth/learning-rust)  
-- [learning-c](https://github.com/JacobSmxth/learning-c)  
-
-- [Fr0st.gg Leaderboard](https://fr0st.gg/leaderboard)  
-- [GoatRewards Dashboard](https://www.goatrewards.com/)  
+**Domains of Interest**
+- Systems & kernel-adjacent programming
+- Cybersecurity tooling & secure architectures
+- Front-end SPAs & real-time dashboards
+- FinTech services & performance-critical systems
 
 ---
 
-## 📈 Leadership & Experience  
-- **Lead Stringer & Quality Checker, Tennis Warehouse** (2 yrs)  
-  - Directed a team of 10+ stringers; verified quality on 50+ racquets/hr with <2% defect rate.  
-- **Lead Game-Dev Sensei, Code Ninjas** (2 yrs)  
+## 💼 Highlight Projects
+
+- [learning-assembly](https://github.com/JacobSmxth/learning-assembly)
+- [learning-rust](https://github.com/JacobSmxth/learning-rust)
+- [learning-c](https://github.com/JacobSmxth/learning-c)
+
+- [Fr0st.gg Leaderboard](https://fr0st.gg/leaderboard)
+- [GoatRewards Dashboard](https://www.goatrewards.com/)
+
+---
+
+
+## 🔧 dotfiles
+
+I maintain a public [dotfiles](https://github.com/JacobSmxth/dotfiles) repository
+that centralizes my shell configs, Hyprland setup, and Waybar/Mako theming.
+Leverage it to bootstrap your own environment or see how I architect my dev workspace.
+
+## 📈 Leadership & Experience
+- **Lead Stringer & Quality Checker, Tennis Warehouse** (2 yrs)
+  - Directed a team of 10+ stringers; verified quality on 50+ racquets/hr with <2% defect rate.
+- **Lead Game-Dev Sensei, Code Ninjas** (2 yrs)
   - Mentored 8–12 students weekly in block-code, JavaScript, and foundational C#.
 
 ---
 
-## 🎓 Education  
+## 🎓 Education
 - **UNG Dahlonega** — B.S. Cybersecurity & B.S. Computer Science (in progress)
 
 ---
 
-## 🔗 Connect  
-- 📧 jacobsmith@jsmitty.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jacobsmxth)  
+## 🔗 Connect
+- 📧 jacobsmith@jsmitty.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jacobsmxth)
 - 🏷️ GitHub: `JacobSmxth`
 
