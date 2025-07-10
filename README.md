@@ -70,7 +70,7 @@ Leverage it to bootstrap your own environment or see how I architect my dev work
 ## 🎥 Live Coding
 
 Catch me streaming my development workflow on
-[![Twitch](https://img.shields.io/badge/Twitch-🎥-purple)](https://twitch.tv/jxvoided)
+[![Live on Twitch](https://img.shields.io/badge/Live%20on%20Twitch-8470FF?logo=twitch&logoColor=white&style=flat-square)](https://twitch.tv/jxvoided)
 no real schedule, it's an occasional thing!
 
 ## 📈 Leadership & Experience
