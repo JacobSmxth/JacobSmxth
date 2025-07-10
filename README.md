@@ -61,12 +61,17 @@ I’m a Systems Programmer and Cybersecurity student at UNG Dahlonega, double-ma
 
 ---
 
-
 ## 🔧 dotfiles
 
 I maintain a public [dotfiles](https://github.com/JacobSmxth/dotfiles) repository
 that centralizes my shell configs, Hyprland setup, and Waybar/Mako theming.
 Leverage it to bootstrap your own environment or see how I architect my dev workspace.
+
+## 🎥 Live Coding
+
+Catch me streaming my development workflow on
+[![Twitch](https://img.shields.io/badge/Twitch-🎥-purple)](https://twitch.tv/jxvoided)
+no real schedule, it's an occasional thing!
 
 ## 📈 Leadership & Experience
 - **Lead Stringer & Quality Checker, Tennis Warehouse** (2 yrs)
