@@ -28,10 +28,10 @@ I’m a Systems Programmer and Cybersecurity student at UNG Dahlonega, double-ma
 
 ## 🌐 Core Competencies
 **Languages & Paradigms**
-- Rust (1.2/10 – systems-level focus)
 - C (3.9/10 – low-level optimization)
-- C# (3/10 – Unity/game-dev prototyping)
 - Go (3/10 – service orchestration concepts)
+- Rust (1.2/10 – systems-level focus)
+- C# (3/10 – Unity/game-dev prototyping)
 - Python (5.2/10 – scripting & automation)
 - Assembly (16-bit fundamentals)
 - JavaScript/HTML/CSS (7.4/10 – SPAs & modern UI)
