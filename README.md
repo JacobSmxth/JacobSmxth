@@ -74,10 +74,11 @@ Catch me streaming my development workflow on
 no real schedule, it's an occasional thing!
 
 ## 📈 Leadership & Experience
+- **Lead Sensei, Code Ninjas** (PRESENT)
+  - Mentored 8–12 students weekly in block-code, JavaScript, and foundational C# in Unity.
 - **Lead Stringer & Quality Checker, Tennis Warehouse** (2 yrs)
   - Directed a team of 10+ stringers; verified quality on 50+ racquets/hr with <2% defect rate.
-- **Lead Game-Dev Sensei, Code Ninjas** (2 yrs)
-  - Mentored 8–12 students weekly in block-code, JavaScript, and foundational C#.
+
 
 ---
 
