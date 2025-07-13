@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 About Me
-I’m a Systems Programmer and Cybersecurity student at UNG Dahlonega, double-majoring in Cybersecurity & Computer Science. After transitioning to Linux, I pivoted from front-end web development to low-level systems work. I possess solid C expertise (with 16-bit assembly fundamentals) and am rapidly upskilling in Rust to one day build an open-source OS. I also dabble in Go, C#, and Python, using Neovim, Zsh, Git/GitHub, and QEMU for development and emulation workflows.
+I'm a Systems Programmer and Cybersecurity student at UNG Dahlonega, double-majoring in Cybersecurity & Computer Science. After switching to Linux, I transitioned from front-end development to low-level systems work. I have solid C expertise and 16-bit assembly fundamentals, and I’m currently focused on mastering C to fully understand systems internals, memory, and compilation. I also work with Go, C#, and Python, and rely on Neovim, Zsh, Git/GitHub, and QEMU for daily development and emulation workflows.
 
 ---
 
