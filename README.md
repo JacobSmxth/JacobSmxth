@@ -21,12 +21,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 I'm a Systems Programmer and Cybersecurity student at UNG Dahlonega, double-majoring in Cybersecurity & Computer Science. After switching to Linux, I transitioned from front-end development to low-level systems work. I have solid C expertise and 16-bit assembly fundamentals, and I’m currently focused on mastering C to fully understand systems internals, memory, and compilation. I also work with Go, C#, and Python, and rely on Neovim, Zsh, Git/GitHub, and QEMU for daily development and emulation workflows.
 
 ---
 
-## 🌐 Core Competencies
+## Core Competencies
 **Languages & Paradigms**
 - C (3.9/10 – low-level optimization)
 - Go (3/10 – service orchestration concepts)
@@ -50,24 +50,24 @@ I'm a Systems Programmer and Cybersecurity student at UNG Dahlonega, double-majo
 
 ---
 
-## 💼 Highlight Projects
-
+## Highlight Projects
+- [C Server](https://github.com/JacobSmxth/C-Server) (IN PROGRESS)
 - [learning-assembly](https://github.com/JacobSmxth/learning-assembly)
 - [learning-rust](https://github.com/JacobSmxth/learning-rust)
 - [learning-c](https://github.com/JacobSmxth/learning-c)
 
 - [Fr0st.gg Leaderboard](https://fr0st.gg/leaderboard)
-- [GoatRewards Dashboard](https://www.goatrewards.com/)
+- [GoatRewards Leaderboard](https://www.goatrewards.com/)
 
 ---
 
-## 🔧 dotfiles
+## dotfiles
 
 I maintain a public [dotfiles](https://github.com/JacobSmxth/dotfiles) repository
 that centralizes my shell configs, Hyprland setup, and Waybar/Mako theming.
 Leverage it to bootstrap your own environment or see how I architect my dev workspace.
 
-## 🎥 Live Coding
+## Live Coding
 
 Catch me streaming my development workflow on
 [![Live on Twitch](https://img.shields.io/badge/Live%20on%20Twitch-8470FF?logo=twitch&logoColor=white&style=flat-square)](https://twitch.tv/jxvoided)
@@ -87,8 +87,8 @@ no real schedule, it's an occasional thing!
 
 ---
 
-## 🔗 Connect
-- 📧 jacobsmith@jsmitty.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jacobsmxth)
-- 🏷️ GitHub: `JacobSmxth`
+## Connect
+- jacobsmith@jsmitty.com
+- [LinkedIn](https://www.linkedin.com/in/jacobsmxth)
+- Portfolio Page: [jsmitty.com](https://jsmitty.com/)
 
