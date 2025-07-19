@@ -84,9 +84,9 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 **University of North Georgia – Dahlonega**  
 Bachelor of Science in **Cybersecurity** & **Computer Science**  
-_Expected Graduation_: May 2027  
+_Expected Graduation_: May 2028
 _GPA_: 3.38  
-_Coursework_: Systems Programming, Operating Systems, Networking, Data Structures
+_Coursework_: Applied Cybersecurity, Script Programming
 
 ---
 
