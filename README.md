@@ -11,7 +11,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ---
 
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -31,7 +31,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Strengthening my C programming fundamentals through real-world systems projects  
 - Transitioning into Go to understand service design and cloud infrastructure concepts  
@@ -41,7 +41,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ---
 
-## 🚀 Engineering Projects
+## Engineering Projects
 
 | Project | Description |
 |--------|-------------|
@@ -67,16 +67,22 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ---
 
-## 🧑‍🏫 Experience
+## Experience
 
-**Code Ninjas – Lead Sensei** _(2024–Present)_  
-• Mentored students in block coding and JavaScript  
-• Taught foundational logic, debugging, and project-based problem solving  
-• Facilitated beginner-friendly game development environments and workshops  
+**Code Ninjas – Content Team Member (Remote)** _(2025–Present)_
+- Help build curriculum for the Godot Blackbelt and AI Academy programs
+- Create slide decks, labs, quizzes, and hands‑on tutorials
+- Work with VPs and other teams to nail down the key learning goals
+- Build prototype projects and test scripts that keep students actively engaged
 
-**Tennis Warehouse – Lead Stringer & QA Inspector** _(2021–2023)_  
-• Led QA for 50+ units/hr with <2% defect rate  
-• Managed peer training and implemented process improvements
+**Code Ninjas – Lead Sensei** _(2025–Present)_  
+- Mentored students in block coding and JavaScript
+- Taught foundational logic, debugging, and project-based problem solving
+- Facilitated beginner-friendly game development environments and workshops  
+
+**Tennis Warehouse – Lead Stringer & Checker** _(2023–2025)_  
+- Led QA for 50+ units/hr with <2% defect rate
+- Managed peer training and implemented process improvements
 
 ---
 
@@ -92,9 +98,9 @@ _Coursework_: Applied Cybersecurity, Script Programming
 
 ## 📬 Connect
 
-- 📧 jacobsmith@jsmitty.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jacobsmxth)  
-- 🌐 [Portfolio](https://jsmitty.com)
+- jacobsmith@jsmitty.com  
+- [LinkedIn](https://www.linkedin.com/in/jacobsmxth)  
+- [Portfolio](https://jsmitty.com)
 
 ---
 
