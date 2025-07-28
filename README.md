@@ -45,10 +45,9 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 | Project | Description |
 |--------|-------------|
-| [**C-Server**](https://github.com/JacobSmxth/C-Server) | Multithreaded HTTP server in C — built from scratch using POSIX sockets and concurrency |
 | [**learning-lab**](https://github.com/JacobSmxth/learning-lab) | Consolidated learning archive across C, Go, and systems tooling fundamentals |
 | [**dotfiles**](https://github.com/JacobSmxth/dotfiles) | Custom Linux ricing (Hyprland, Neovim, Zsh, Waybar) — fully modular and pywal-themed |
-| [**jsmitty.com**](https://jsmitty.com) | Portfolio website with project highlights, goals, and GitHub integration |
+| [**jsmitty.com**](https://jsmitty.com) | Portfolio website with project highlights and goals
 
 ---
 
@@ -69,16 +68,9 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ## Experience
 
-**Code Ninjas – Content Team Member (Remote)** _(2025–Present)_
-- Help build curriculum for the Godot Blackbelt and AI Academy programs
-- Create slide decks, labs, quizzes, and hands‑on tutorials
-- Work with VPs and other teams to nail down the key learning goals
-- Build prototype projects and test scripts that keep students actively engaged
-
-**Code Ninjas – Lead Sensei** _(2025–Present)_  
-- Mentored students in block coding and JavaScript
+**Code Ninjas – Sensei** _(2025–Present)_  
+- Help guide students in block coding and JavaScript
 - Taught foundational logic, debugging, and project-based problem solving
-- Facilitated beginner-friendly game development environments and workshops  
 
 **Tennis Warehouse – Lead Stringer & Checker** _(2023–2025)_  
 - Led QA for 50+ units/hr with <2% defect rate
@@ -91,7 +83,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 **University of North Georgia – Dahlonega**  
 Bachelor of Science in **Cybersecurity** & **Computer Science**  
 _Expected Graduation_: May 2028
-_GPA_: 3.38  
+_GPA_: 3.48  
 _Coursework_: Applied Cybersecurity, Script Programming
 
 ---
