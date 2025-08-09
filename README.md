@@ -1,6 +1,6 @@
 # JacobSmxth
 
-**Infrastructure-Focused Student Engineer · Systems Programming in Progress**  
+**Backend-Focused Student Engineer · Java & Systems in Progress**  
 _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 > “With great power comes great responsibility.” – Ben Parker
@@ -14,30 +14,32 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 ## Tech Stack & Tools
 
 **Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Tools & Platforms:**  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![QEMU](https://img.shields.io/badge/QEMU-A60000?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## Current Focus
 
-- Strengthening my C programming fundamentals through real-world systems projects  
-- Transitioning into Go to understand service design and cloud infrastructure concepts  
-- Studying low-level internals like memory, I/O, and process scheduling  
-- Building projects that reinforce network protocols, performance, and tool development  
-- Preparing for upcoming internship cycles with a portfolio of core systems work
+- Mastering **Java** for backend development, REST APIs, and Spring Boot  
+- Learning **Go** and **C#** to broaden backend and infrastructure capabilities  
+- Building fintech-oriented projects with strong security principles  
+- Continuing select systems-level work for deeper backend performance understanding  
+- Preparing for internship cycles with a portfolio centered on backend engineering
 
 ---
 
@@ -45,9 +47,10 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 | Project | Description |
 |--------|-------------|
-| [**learning-lab**](https://github.com/JacobSmxth/learning-lab) | Consolidated learning archive across C, Go, and systems tooling fundamentals |
+| [**learning-lab**](https://github.com/JacobSmxth/learning-lab) | Consolidated learning archive across Java, Go, and backend tooling |
+| [**cli-finance-tracker**](https://github.com/JacobSmxth/personal-finance-tracker) | Secure CLI-based finance tracker with password hashing and modular design |
 | [**dotfiles**](https://github.com/JacobSmxth/dotfiles) | Custom Linux ricing (Hyprland, Neovim, Zsh, Waybar) — fully modular and pywal-themed |
-| [**jsmitty.com**](https://jsmitty.com) | Portfolio website with project highlights and goals
+| [**jsmitty.com**](https://jsmitty.com) | Portfolio website with project highlights and goals |
 
 ---
 
@@ -69,12 +72,12 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 ## Experience
 
 **Code Ninjas – Sensei** _(2025–Present)_  
-- Help guide students in block coding and JavaScript
-- Taught foundational logic, debugging, and project-based problem solving
+- Help guide students in block coding, JavaScript, and Python  
+- Teach foundational programming logic, debugging, and project-based problem solving  
 
 **Tennis Warehouse – Lead Stringer & Checker** _(2023–2025)_  
-- Led QA for 50+ units/hr with <2% defect rate
-- Managed peer training and implemented process improvements
+- Led QA for 50+ units/hr with <2% defect rate  
+- Managed peer training and implemented process improvements  
 
 ---
 
@@ -82,9 +85,9 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 **University of North Georgia – Dahlonega**  
 Bachelor of Science in **Cybersecurity** & **Computer Science**  
-_Expected Graduation_: May 2028
+_Expected Graduation_: May 2028  
 _GPA_: 3.48  
-_Coursework_: Applied Cybersecurity, Script Programming
+_Coursework_: Computer Science II (Java), Applied Cybersecurity, Script Programming  
 
 ---
 
@@ -97,5 +100,5 @@ _Coursework_: Applied Cybersecurity, Script Programming
 ---
 
 <p align="center">
-  Focused on Systems · Learning by Building · Documenting the Journey
+  Backend-Focused · Secure by Design · Fintech-Oriented
 </p>
