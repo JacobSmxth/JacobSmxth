@@ -48,7 +48,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 | Project | Description |
 |--------|-------------|
 | [**learning-lab**](https://github.com/JacobSmxth/learning-lab) | Consolidated learning archive across Java, Go, and backend tooling |
-| [**LedgerLite**](https://github.com/JacobSmxth/LedgerLite) | A lightweight Java CLI finance tracker that records income and expenses |
+| [**Cent Ledger**](https://github.com/JacobSmxth/CentLedger) | A lightweight Java API finance tracker that records income and expenses |
 | [**dotfiles**](https://github.com/JacobSmxth/dotfiles) | Custom Linux ricing (Hyprland, Neovim, Zsh, Waybar) — fully modular and pywal-themed |
 | [**jsmitty.com**](https://jsmitty.com) | Portfolio website with project highlights and goals |
 
