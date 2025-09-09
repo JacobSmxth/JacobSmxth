@@ -1,6 +1,6 @@
 # JacobSmxth
 
-**Backend-Focused CS Student · Java/Spring Boot Developer**  
+**Backend-Focused CS Student · Java/Spring Boot Developer**
 _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 > "With great power comes great responsibility." – Ben Parker
@@ -21,7 +21,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ## Tech Stack & Tools
 
-**Languages:**  
+**Languages:**
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -31,7 +31,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Tools:**  
+**Frameworks & Tools:**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
@@ -43,10 +43,10 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ## Current Focus
 
-- Mastering **Java** for backend development, REST APIs, and Spring Boot  
-- Expanding **full-stack capabilities** with React and TypeScript  
-- Building fintech-oriented projects with strong security principles  
-- Planning to learn **Go** and **C#** to broaden backend and infrastructure capabilities  
+- Mastering **Java** for backend development, REST APIs, and Spring Boot
+- Expanding **full-stack capabilities** with React and TypeScript
+- Building fintech-oriented projects with strong security principles
+- Planning to learn **Go** and **C#** to broaden backend and infrastructure capabilities
 - Preparing for internship cycles with a portfolio centered on backend engineering
 
 ---
@@ -56,7 +56,6 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**CentLedger**](https://github.com/JacobSmxth/CentLedger) | Personal finance management REST API with income/expense tracking | Java, Spring Boot, CSV |
-| [**Task Manager**](#) | Full-stack task management application _(In Progress)_ | React, TypeScript, Java, Spring Boot |
 | [**jsmitty.com**](https://jsmitty.com) | Portfolio website showcasing projects and technical journey | Web Technologies |
 
 ---
@@ -78,33 +77,33 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ## Experience
 
-**Code Ninjas – Sensei & Content Team Member** _(2025–Present)_  
-- Guide students in block coding, JavaScript, and Python fundamentals  
-- Teach programming logic, debugging techniques, and project-based problem solving  
-- Convert Unity projects to Godot, translating C# codebases to GDScript  
+**Code Ninjas – Sensei & Content Team Member** _(2025–Present)_
+- Guide students in block coding, JavaScript, and Python fundamentals
+- Teach programming logic, debugging techniques, and project-based problem solving
+- Convert Unity projects to Godot, translating C# codebases to GDScript
 - Contribute to programming curriculum development and educational content creation
 
-**Tennis Warehouse – Lead Stringer & Checker** _(2023–2025)_  
-- Led QA processes for 50+ units/hour with <2% defect rate  
-- Managed peer training programs and implemented process improvements  
+**Tennis Warehouse – Lead Stringer & Checker** _(2023–2025)_
+- Led QA processes for 50+ units/hour with <2% defect rate
+- Managed peer training programs and implemented process improvements
 - Developed organizational skills and attention to detail under pressure
 
 ---
 
 ## Education
 
-**University of North Georgia – Dahlonega**  
-Bachelor of Science in **Cybersecurity** & **Computer Science**  
-_Expected Graduation_: May 2028  
-_GPA_: 3.48  
+**University of North Georgia – Dahlonega**
+Bachelor of Science in **Cybersecurity** & **Computer Science**
+_Expected Graduation_: May 2028
+_GPA_: 3.48
 _Relevant Coursework_: Computer Science II (Java), Applied Cybersecurity, Script Programming, Data Structures & Algorithms
 
 ---
 
 ## Connect
 
-- jacobsmith@jsmitty.com  
-- [LinkedIn](https://www.linkedin.com/in/jacobsmxth)  
+- jacobsmith@jsmitty.com
+- [LinkedIn](https://www.linkedin.com/in/jacobsmxth)
 - [Portfolio](https://jsmitty.com)
 - Atlanta, Georgia area
 
