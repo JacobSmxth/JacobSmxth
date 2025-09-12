@@ -55,6 +55,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [**AcademicEdge**](https://github.com/jacobsmxth/AcadmeicEdge) | Full-stack academic management system with role-based access for students, teachers, and administrators. Features scheduling, course management, and grade tracking. | Java, Spring Boot, PostgreSQL, HTML |
 | [**CentLedger**](https://github.com/JacobSmxth/CentLedger) | Personal finance management REST API with income/expense tracking | Java, Spring Boot, CSV |
 | [**jsmitty.com**](https://jsmitty.com) | Portfolio website showcasing projects and technical journey | Web Technologies |
 
