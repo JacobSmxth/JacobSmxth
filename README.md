@@ -13,9 +13,9 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ## Currently Working On
 
-- Building a full-stack **task manager** with React/TypeScript frontend and Java Spring Boot backend
-- Completing **CentLedger** personal finance API with enhanced features and documentation
-- Preparing for **Summer 2026 internship applications** with a focus on backend engineering roles
+- Building **Inventory Management API** - Production-ready REST API with Spring Boot, PostgreSQL, and JWT authentication
+- Applying for **Summer 2026 backend engineering internships** at fintech and enterprise companies
+- Deepening expertise in **Java/Spring Boot** for scalable, secure backend systems
 
 ---
 
@@ -26,38 +26,34 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frameworks & Tools:**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 ## Current Focus
 
-- Mastering **Java** for backend development, REST APIs, and Spring Boot
-- Expanding **full-stack capabilities** with React and TypeScript
-- Building fintech-oriented projects with strong security principles
-- Planning to learn **Go** and **C#** to broaden backend and infrastructure capabilities
-- Preparing for internship cycles with a portfolio centered on backend engineering
+- Mastering **Java/Spring Boot** for enterprise backend development
+- Building production-ready REST APIs with security-first design
+- Studying **data structures, algorithms**, and **system design** patterns
+- **Actively applying for Summer 2026 internships** in backend engineering and fintech
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**AcademicEdge**](https://github.com/jacobsmxth/AcadmeicEdge) | Full-stack academic management system with role-based access for students, teachers, and administrators. Features scheduling, course management, and grade tracking. | Java, Spring Boot, PostgreSQL, HTML |
-| [**CentLedger**](https://github.com/JacobSmxth/CentLedger) | Personal finance management REST API with income/expense tracking | Java, Spring Boot, CSV |
-| [**jsmitty.com**](https://jsmitty.com) | Portfolio website showcasing projects and technical journey | Web Technologies |
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| [**InventoryAPI**](https://github.com/JacobSmxth/inventory-management-api) | REST API for inventory management with stock tracking, search, and category filtering | Java, Spring Boot, PostgreSQL, JWT | 🚧 In Progress |
+| [**CentLedger**](https://github.com/JacobSmxth/CentLedger) | Personal finance API with income/expense tracking and budget management | Java, Spring Boot, REST | 📦 Archived |
+| [**jsmitty.com**](https://jsmitty.com) | Portfolio website showcasing projects and technical journey | HTML, CSS, JavaScript | ✅ Live |
 
 ---
 
@@ -96,7 +92,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 **University of North Georgia – Dahlonega**
 Bachelor of Science in **Cybersecurity** & **Computer Science**
 _Expected Graduation_: May 2028
-_GPA_: 3.48
+_GPA_: 3.38
 _Relevant Coursework_: Computer Science II (Java), Applied Cybersecurity, Script Programming, Data Structures & Algorithms
 
 ---
@@ -111,5 +107,5 @@ _Relevant Coursework_: Computer Science II (Java), Applied Cybersecurity, Script
 ---
 
 <p align="center">
-  Backend-Focused · Secure by Design · Full-Stack Capable · Internship Ready
+  Backend-Focused · Security-Minded · Building Real Solutions · Internship Ready
 </p>
