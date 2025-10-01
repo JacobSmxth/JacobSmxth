@@ -51,7 +51,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [**InventoryAPI**](https://github.com/JacobSmxth/inventory-management-api) | REST API for inventory management with stock tracking, search, and category filtering | Java, Spring Boot, PostgreSQL, JWT | 🚧 In Progress |
+| [**InventoryAPI**](https://github.com/JacobSmxth/inventory-management-api) | REST API for inventory management - POST and GET endpoints working | Java, Spring Boot, H2 Database | 🚧 Day 1 Done |
 | [**CentLedger**](https://github.com/JacobSmxth/CentLedger) | Personal finance API with income/expense tracking and budget management | Java, Spring Boot, REST | 📦 Archived |
 | [**jsmitty.com**](https://jsmitty.com) | Portfolio website showcasing projects and technical journey | HTML, CSS, JavaScript | ✅ Live |
 
@@ -74,17 +74,23 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ## Experience
 
-**Code Ninjas – Sensei & Content Team Member** _(2025–Present)_
-- Guide students in block coding, JavaScript, and Python fundamentals
-- Teach programming logic, debugging techniques, and project-based problem solving
-- Convert Unity projects to Godot, translating C# codebases to GDScript
-- Contribute to programming curriculum development and educational content creation
+**Code Ninjas Corporate – Content Team Member** *(2025–Present)*
+- Collaborate remotely with cross-functional teams across USA and Canada using Microsoft suite
+- Translate Unity C# projects to Godot GDScript for multi-platform educational curriculum
+- Perform QA testing on pre-release belt curriculum to ensure quality standards
+- Contribute to programming curriculum development using Git-based workflow
+- Work in agile sprints to deliver educational game projects and content updates
 
-**Tennis Warehouse – Lead Stringer & Checker** _(2023–2025)_
-- Led QA processes for 50+ units/hour with <2% defect rate
+**Code Ninjas – Sensei** *(2025–Present)*
+- Teach JavaScript fundamentals and programming logic to students ages 7-14
+- Debug and troubleshoot C# code for advanced Black Belt students
+- Guide students through project-based learning with block coding and text-based languages
+- Mentor students in computational thinking and problem-solving techniques
+
+**Tennis Warehouse – Lead Stringer & Checker** *(2023–2025)*
+- Led quality assurance processes for racquet stringing operations
 - Managed peer training programs and implemented process improvements
-- Developed organizational skills and attention to detail under pressure
-
+- Developed organizational skills and attention to detail in high-volume environment
 ---
 
 ## Education
