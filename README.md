@@ -51,7 +51,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [**InventoryAPI**](https://github.com/JacobSmxth/inventory-management-api) | REST API for inventory management - POST and GET endpoints working | Java, Spring Boot, H2 Database | 🚧 Day 1 Done |
+| [**InventoryAPI**](https://github.com/JacobSmxth/inventory-management-api) | REST API for inventory management with full CRUD, search, filtering, stock adjustment, validation, and tests | Java 21, Spring Boot 3.5.6, H2 Database, JUnit | ✅ Complete |
 | [**CentLedger**](https://github.com/JacobSmxth/CentLedger) | Personal finance API with income/expense tracking and budget management | Java, Spring Boot, REST | 📦 Archived |
 | [**jsmitty.com**](https://jsmitty.com) | Portfolio website showcasing projects and technical journey | HTML, CSS, JavaScript | ✅ Live |
 
