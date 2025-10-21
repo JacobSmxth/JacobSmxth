@@ -13,7 +13,8 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ## Currently Working On
 
-- Building **Inventory Management API** - Production-ready REST API with Spring Boot, PostgreSQL, and JWT authentication
+- Building **CentDash** - Migrating personal finance API from CSV to database-backed architecture with JPA inheritance
+- Developing **Spring Boot REST APIs** with clean architecture and comprehensive testing
 - Applying for **Summer 2026 backend engineering internships** at fintech and enterprise companies
 - Deepening expertise in **Java/Spring Boot** for scalable, secure backend systems
 
@@ -38,22 +39,43 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ---
 
+## Featured Projects
+
+| Project | Description | Tech Stack | Lines of Code |
+|---------|-------------|------------|---------------|
+| [**CentDash**](https://github.com/jacobsmxth/centdash) | Personal finance API with JPA inheritance, custom queries, and aggregate endpoints. Migrating from CSV to database-backed architecture. | Java, Spring Boot, Spring Data JPA, H2 | 475 |
+| [**InventoryAPI**](https://github.com/JacobSmxth/inventory-management-api) | Production-ready REST API with CRUD operations, search filtering, stock management, validation, and integration tests | Java 21, Spring Boot 3.5.6, H2 Database, JUnit | 412 |
+| [**Task Manager API**](https://github.com/JacobSmxth/task-manager-api) | Task management API featuring soft delete with recovery, multi-dimensional filtering, and complex query composition | Java 21, Spring Boot 3.5.6, Spring Data JPA | 291 |
+| [**jsmitty.com**](https://jsmitty.com) | Portfolio website built with Next.js 15, React 19, and Tailwind CSS v4 | Next.js, React, TypeScript, Tailwind | Live |
+
+---
+
 ## Current Focus
 
 - Mastering **Java/Spring Boot** for enterprise backend development
 - Building production-ready REST APIs with security-first design
+- Exploring **JPA entity relationships**, single-table inheritance, and ORM patterns
 - Studying **data structures, algorithms**, and **system design** patterns
 - **Actively applying for Summer 2026 internships** in backend engineering and fintech
 
 ---
 
-## Featured Projects
+<details>
+<summary>📦 Archived Projects (Click to Expand)</summary>
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| [**InventoryAPI**](https://github.com/JacobSmxth/inventory-management-api) | REST API for inventory management with full CRUD, search, filtering, stock adjustment, validation, and tests | Java 21, Spring Boot 3.5.6, H2 Database, JUnit | ✅ Complete |
-| [**CentLedger**](https://github.com/JacobSmxth/CentLedger) | Personal finance API with income/expense tracking and budget management | Java, Spring Boot, REST | 📦 Archived |
-| [**jsmitty.com**](https://jsmitty.com) | Portfolio website showcasing projects and technical journey | HTML, CSS, JavaScript | ✅ Live |
+### Practice & Learning Projects
+- **Workout Tracker API** - Three-level entity relationships (Sessions → Exercises → Sets) built to practice JPA cascade operations
+- **CentLedger API** - First Spring Boot project: financial ledger with CSV persistence
+
+### Client Work
+- **GoatRewards.com** - Twitch leaderboard platform merging multiple APIs with real-time updates and automated raffle system
+- **RainbetVIP.com** - Promotional website with Telegram bot integration and automated content management
+
+### Other Projects
+- **Washington Archives** - Historical research website with 10,000+ words and 52 cited sources
+- **Portfolio** - This website you're viewing (Next.js 15, React 19, Tailwind CSS v4)
+
+</details>
 
 ---
 
@@ -91,14 +113,15 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 - Led quality assurance processes for racquet stringing operations
 - Managed peer training programs and implemented process improvements
 - Developed organizational skills and attention to detail in high-volume environment
+
 ---
 
 ## Education
 
-**University of North Georgia – Dahlonega**
-Bachelor of Science in **Cybersecurity** & **Computer Science**
-_Expected Graduation_: May 2028
-_GPA_: 3.38
+**University of North Georgia – Dahlonega**  
+Bachelor of Science in **Cybersecurity** & **Computer Science**  
+_Expected Graduation_: May 2028  
+_GPA_: 3.38  
 _Relevant Coursework_: Computer Science II (Java), Applied Cybersecurity, Script Programming, Data Structures & Algorithms
 
 ---
