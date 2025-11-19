@@ -1,7 +1,7 @@
 # JacobSmxth
 
-**Backend-Focused CS Student · Java/Spring Boot Developer**
-_B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
+**Backend-Focused CS Student · Java/Spring Boot Developer**  
+_B.S. Cybersecurity & Computer Science @ UNG Dahlonega · Minoring in FinTech_
 
 > "With great power comes great responsibility." – Ben Parker
 
@@ -13,16 +13,18 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ## Currently Working On
 
-- Building **CentDash** - Migrating personal finance API from CSV to database-backed architecture with JPA inheritance
-- Developing **Spring Boot REST APIs** with clean architecture and comprehensive testing
-- Applying for **Summer 2026 backend engineering internships** at fintech and enterprise companies
-- Deepening expertise in **Java/Spring Boot** for scalable, secure backend systems
+- Building **CentDash** – Migrating personal finance API from CSV to database-backed architecture with JPA inheritance  
+- Developing **Spring Boot REST APIs** with clean architecture and comprehensive testing  
+- Building a **new rewards and progression system for Code Ninjas students**, starting with my dojo and planning expansion internationally  
+- Assisting Code Ninjas Corporate by **co-designing the new Unreal Engine learning pathway from scratch**  
+- Applying for **Summer 2026 backend engineering internships** at fintech and enterprise companies  
+- Deepening expertise in **Java/Spring Boot** for scalable, secure backend systems  
 
 ---
 
 ## Tech Stack & Tools
 
-**Languages:**
+**Languages:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
@@ -30,7 +32,7 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Tools:**
+**Frameworks & Tools:**  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -41,22 +43,40 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ## Featured Projects
 
+**\*** I am currently developing a **new rewards and progression system for Code Ninjas students**. It is being built first for the dojo where I work as a Sensei, with a long-term goal of expanding it internationally.  
+**\*** For Code Ninjas Corporate, I am also **co-designing the new Unreal Engine pathway from the ground up**, working closely with one other team member.
+
 | Project | Description | Tech Stack | Lines of Code |
 |---------|-------------|------------|---------------|
-| [**CentDash**](https://github.com/jacobsmxth/centdash) | Personal finance API with JPA inheritance, custom queries, and aggregate endpoints. Migrating from CSV to database-backed architecture. | Java, Spring Boot, Spring Data JPA, H2 | 475 |
-| [**InventoryAPI**](https://github.com/JacobSmxth/inventory-management-api) | Production-ready REST API with CRUD operations, search filtering, stock management, validation, and integration tests | Java 21, Spring Boot 3.5.6, H2 Database, JUnit | 412 |
-| [**Task Manager API**](https://github.com/JacobSmxth/task-manager-api) | Task management API featuring soft delete with recovery, multi-dimensional filtering, and complex query composition | Java 21, Spring Boot 3.5.6, Spring Data JPA | 291 |
-| [**jsmitty.com**](https://jsmitty.com) | Portfolio website built with Next.js 15, React 19, and Tailwind CSS v4 | Next.js, React, TypeScript, Tailwind | Live |
+| [**Code Ninjas Bux**](https://github.com/JacobSmxth/code-ninjas-bux) | Full reward and progression system for Code Ninjas students with live leaderboards, achievements, admin dashboards, and real-time updates. Built for dojo rollout first with plans for global expansion. | Java, Spring Boot, React 19, WebSockets, PostgreSQL | In active development |
+| [**CentDash**](https://github.com/jacobsmxth/centdash) | Personal finance API with JPA inheritance, aggregation endpoints, and CSV to database migration | Java, Spring Boot, Spring Data JPA, H2 | 475 |
+| [**InventoryAPI**](https://github.com/JacobSmxth/inventory-management-api) | REST API featuring CRUD, stock management, search filtering, validation, and integration tests | Java 21, Spring Boot 3.5.6, H2, JUnit | 412 |
+| [**Task Manager API**](https://github.com/JacobSmxth/task-manager-api) | Task management API with soft delete and recovery, complex filtering, and custom query composition | Java 21, Spring Boot 3.5.6, Spring Data JPA | 291 |
+| [**jsmitty.com**](https://jsmitty.com) | Portfolio built with Next.js 15, React 19, and Tailwind v4 | Next.js, React, TypeScript, Tailwind | Live |
+
+---
+
+## My Setup
+
+These are the tools I use daily for development.
+
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| [**Ichthys.nvim**](https://github.com/JacobSmxth/Ichthys) | My custom Neovim configuration optimized for Java, Go, Rust, C, and TypeScript development. Includes LSP, DAP, telescope, snippets, formatting, and full plugin ecosystem. | Lua, Neovim, LSP, DAP | Actively maintained |
 
 ---
 
 ## Current Focus
 
-- Mastering **Java/Spring Boot** for enterprise backend development
-- Building production-ready REST APIs with security-first design
-- Exploring **JPA entity relationships**, single-table inheritance, and ORM patterns
-- Studying **data structures, algorithms**, and **system design** patterns
-- **Actively applying for Summer 2026 internships** in backend engineering and fintech
+- Mastering **Java and Spring Boot** for enterprise-grade backend development  
+- Returning to **C programming** to understand the computer ecosystem at a low level  
+  - How memory actually works  
+  - How the CPU interacts with RAM  
+  - What pointers, stacks, heaps, and compilation really do  
+- Strengthening fundamentals in **operating systems, memory models, and CPU architecture**  
+- Learning both the high-level and low-level perspectives to become a stronger backend engineer  
+- Continuing deep work on **JPA design**, inheritance strategies, and ORM performance  
+- Actively applying for **Summer 2026 internships** in backend engineering and fintech  
 
 ---
 
@@ -64,16 +84,16 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 <summary>📦 Archived Projects (Click to Expand)</summary>
 
 ### Practice & Learning Projects
-- **Workout Tracker API** - Three-level entity relationships (Sessions → Exercises → Sets) built to practice JPA cascade operations
-- **CentLedger API** - First Spring Boot project: financial ledger with CSV persistence
+- **Workout Tracker API** – Three-level entity relationships (Sessions → Exercises → Sets) practicing JPA cascade operations  
+- **CentLedger API** – First Spring Boot project with CSV persistence and ledger tracking  
 
 ### Client Work
-- **GoatRewards.com** - Twitch leaderboard platform merging multiple APIs with real-time updates and automated raffle system
-- **RainbetVIP.com** - Promotional website with Telegram bot integration and automated content management
+- **GoatRewards.com** – Twitch leaderboard platform combining multiple APIs, with automated raffles and real-time updates  
+- **RainbetVIP.com** – Promotional website with Telegram bot automation  
 
 ### Other Projects
-- **Washington Archives** - Historical research website with 10,000+ words and 52 cited sources
-- **Portfolio** - This website you're viewing (Next.js 15, React 19, Tailwind CSS v4)
+- **Washington Archives** – Historical research site with 52 sources and over 10,000 words  
+- **Portfolio** – The website you are viewing (Next.js 15, React 19, Tailwind v4)  
 
 </details>
 
@@ -83,10 +103,8 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 <summary>📊 GitHub Stats (Click to Expand)</summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobSmxth&layout=compact&theme=vision-friendly-dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=JacobSmxth&show_icons=true&theme=vision-friendly-dark" />
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacobSmxth&layout=compact&theme=vision-friendly-dark" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=JacobSmxth&show_icons=true&theme=vision-friendly-dark" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JacobSmxth&theme=vision-friendly-dark" />
 </p>
 
@@ -96,23 +114,24 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 ## Experience
 
-**Code Ninjas Corporate – Content Team Member** *(2025–Present)*
-- Collaborate remotely with cross-functional teams across USA and Canada using Microsoft suite
-- Translate Unity C# projects to Godot GDScript for multi-platform educational curriculum
-- Perform QA testing on pre-release belt curriculum to ensure quality standards
-- Contribute to programming curriculum development using Git-based workflow
-- Work in agile sprints to deliver educational game projects and content updates
+**Code Ninjas Corporate – Content Team Member (2025–Present)**  
+- Collaborate with teams across the USA and Canada  
+- Translate Unity C# curriculum into Godot GDScript for multi-platform educational games  
+- Perform QA on curriculum updates  
+- Contribute to curriculum development using Git workflows  
+- Co-design the **new Unreal Engine learning pathway** from the ground up  
 
-**Code Ninjas – Sensei** *(2025–Present)*
-- Teach JavaScript fundamentals and programming logic to students ages 7-14
-- Debug and troubleshoot C# code for advanced Black Belt students
-- Guide students through project-based learning with block coding and text-based languages
-- Mentor students in computational thinking and problem-solving techniques
+**Code Ninjas – Sensei (2025–Present)**  
+- Teach JavaScript fundamentals and programming logic to students aged 7–14  
+- Debug C# projects for advanced Black Belt students  
+- Lead project-based learning sessions  
+- Mentor students in computational thinking  
+- Building a **dojo-wide reward and progression system** for students  
 
-**Tennis Warehouse – Lead Stringer & Checker** *(2023–2025)*
-- Led quality assurance processes for racquet stringing operations
-- Managed peer training programs and implemented process improvements
-- Developed organizational skills and attention to detail in high-volume environment
+**Tennis Warehouse – Lead Stringer & Checker (2023–2025)**  
+- Led QA for racquet stringing operations  
+- Managed training programs for new staff  
+- Improved efficiency and accuracy in a high-volume environment  
 
 ---
 
@@ -120,18 +139,19 @@ _B.S. Cybersecurity & Computer Science @ UNG Dahlonega_
 
 **University of North Georgia – Dahlonega**  
 Bachelor of Science in **Cybersecurity** & **Computer Science**  
-_Expected Graduation_: May 2028  
-_GPA_: 3.38  
-_Relevant Coursework_: Computer Science II (Java), Applied Cybersecurity, Script Programming, Data Structures & Algorithms
+**Minor in FinTech**  
+Expected Graduation: May 2028  
+GPA: **3.53**  
+Relevant Coursework: CS II (Java), Applied Cybersecurity, Script Programming, Data Structures and Algorithms  
 
 ---
 
 ## Connect
 
-- jacobsmith@jsmitty.com
-- [LinkedIn](https://www.linkedin.com/in/jacobsmxth)
-- [Portfolio](https://jsmitty.com)
-- Atlanta, Georgia area
+- Email: **jacobsmith@jsmitty.com**  
+- LinkedIn: https://www.linkedin.com/in/jacobsmxth  
+- Portfolio: https://jsmitty.com  
+- Location: Atlanta, Georgia area  
 
 ---
 
