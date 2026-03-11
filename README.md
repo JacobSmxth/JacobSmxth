@@ -2,7 +2,7 @@
 
 # Jacob Smith
 
-[![Website](https://img.shields.io/badge/jsmitty.com-000000?style=flat&logo=globe&logoColor=white)](https://jsmitty.com)
+[![Website](https://img.shields.io/badge/jsmitty.dev-000000?style=flat&logo=globe&logoColor=white)](https://jsmitty.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacobsmxth)
 [![University of North Georgia](https://img.shields.io/badge/UNG-B.S._Cybersecurity_%26_CS-003087?style=flat&logo=graduation-cap&logoColor=white)](https://ung.edu)
 
@@ -16,7 +16,7 @@
 
 I'm a Cybersecurity and Computer Science student focused on systems programming, backend development, and understanding how software works at the infrastructure level.
 
-Most of my projects are small tools and experiments built while learning new technologies. I enjoy working close to the system layer — building command-line tools, APIs, and backend services while exploring topics like memory management, operating systems, and secure software design.
+Most of my projects are small tools and experiments built while learning new technologies. I enjoy working close to the system layer - building command-line tools, APIs, and backend services while exploring topics like memory management, operating systems, and secure software design.
 
 Outside of school I work as a coding instructor at Code Ninjas, where I teach programming fundamentals and build tools that help motivate students and track progress.
 
