@@ -10,23 +10,23 @@
 
 </div>
 
-## 👋 About Me
+## About Me
 
 I'm a Cybersecurity and Computer Science student at the **University of North Georgia**, focused on systems programming, backend development, and automation.
 
-- 💼 Recently completed a **Business Operations Internship at Fiserv** (Summer 2026)
-- 🥷 Teaching kids ages 7 to 14 how to code at **Code Ninjas**
-- 🛠️ Building CLI tools in **C** and digging into memory, processes, and OS internals
-- 🌐 Taking on freelance web projects on the side
+- Recently completed a **Business Operations Internship at Fiserv** (Summer 2026)
+- Teaching kids ages 7 to 14 how to code at **Code Ninjas**
+- Building CLI tools in **C** and digging into memory, processes, and OS internals
+- Taking on freelance web projects on the side
 
 <br />
 
-## 💼 Experience
+## Experience
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏦 Fiserv</h3>
+      <h3>Fiserv</h3>
       <b>Business Operations Intern</b><br />
       <sub>June 2026 to August 2026</sub>
       <p>Built automated business workflows and Excel tooling integrated with Microsoft Power Automate, cutting down manual work across operational processes.</p>
@@ -35,7 +35,7 @@ I'm a Cybersecurity and Computer Science student at the **University of North Ge
       <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft 365" />
     </td>
     <td width="50%" valign="top">
-      <h3>🥷 Code Ninjas</h3>
+      <h3>Code Ninjas</h3>
       <b>Coding Instructor</b><br />
       <sub>2025 to Present</sub>
       <p>Teaching programming fundamentals to students ages 7 to 14. Built <b>NinjaBux</b>, an internal reward platform that helps instructors track progress and motivate students.</p>
@@ -46,7 +46,7 @@ I'm a Cybersecurity and Computer Science student at the **University of North Ge
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🌐 Freelance Web Development</h3>
+      <h3>Freelance Web Development</h3>
       <p>Building small web applications and landing pages for clients while exploring modern frontend and backend tooling.</p>
     </td>
   </tr>
@@ -54,25 +54,25 @@ I'm a Cybersecurity and Computer Science student at the **University of North Ge
 
 <br />
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/jacobsmxth/centledger">💰 CentLedger</a></h3>
+      <h3><a href="https://github.com/jacobsmxth/centledger">CentLedger</a></h3>
       <p>Backend REST API for modeling financial transactions. Explores how money movement can be represented cleanly through API design.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/jacobsmxth/word-frequency-analyzer">📊 Word Frequency Analyzer</a></h3>
+      <h3><a href="https://github.com/jacobsmxth/word-frequency-analyzer">Word Frequency Analyzer</a></h3>
       <p>CLI tool that parses large text files and surfaces the most frequent words using a custom hash table written in C.</p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://github.com/jacobsmxth/password-manager-cli">🔐 Password Manager CLI</a></h3>
+      <h3><a href="https://github.com/jacobsmxth/password-manager-cli">Password Manager CLI</a></h3>
       <p>Lightweight command-line password manager that stores and retrieves credentials locally, built to understand storage at a low level.</p>
       <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
@@ -82,7 +82,7 @@ I'm a Cybersecurity and Computer Science student at the **University of North Ge
 
 <br />
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <b>Languages</b><br /><br />
@@ -96,12 +96,12 @@ I'm a Cybersecurity and Computer Science student at the **University of North Ge
 
 <br />
 
-## 🎯 Current Focus
+## Current Focus
 
-- ⚙️ Systems programming in **C**
-- 🐧 Linux internals: memory, processes, and system architecture
-- 🔧 Building small **command-line tools** that solve real problems
-- 🔒 Growing my cybersecurity fundamentals alongside my degree
+- Systems programming in **C**
+- Linux internals: memory, processes, and system architecture
+- Building small **command-line tools** that solve real problems
+- Growing my cybersecurity fundamentals alongside my degree
 
 <br />
 
